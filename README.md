@@ -13,5 +13,5 @@ Motor Imagery Classification for Simultaneous EEG-fMRI data
   <h4> Classification for Power feature vector </h4>
   <img src="/Al/power_feature.png" width="500"/>
   
- 
- Click [here] ("www.marshallplan.at/s/Bermudez-Dalton_760.pdf")
+ <h4> Austrian Marshall Plan Publication </h4>
+ Bermudez D., Steyrl D., Müller G., Pock T., Implementation of Machine Learning Algorithm to Exploit Information from Multi-model fMRI/EEG Fused Image Data. Austrain Marshall Plan, pp. 1-82 (2017)("www.marshallplan.at/s/Bermudez-Dalton_760.pdf")
