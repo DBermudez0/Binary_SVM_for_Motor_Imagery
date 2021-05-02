@@ -8,9 +8,9 @@ Motor Imagery Classification for Simultaneous EEG-fMRI data
 
 
   <h3> Classification SVM Algorithm Results </h3>
-  <h2> Classification for time feature vector </h2>
+  <h4> Classification for time feature vector </h4>
   <img src="/Al/time_feature.png" width="500"/> 
-  <h2> Classification for Power feature vector </h2>
+  <h4> Classification for Power feature vector </h4>
   <img src="/Al/power_feature.png" width="500"/>
   
   [a relative link](www.marshallplan.at/s/Bermudez-Dalton_760.pdf)
