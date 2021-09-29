@@ -17,4 +17,4 @@ Motor Imagery Classification for Simultaneous EEG-fMRI data
   ("https://github.com/DBermudez0/Binary_SVM_for_Motor_Imagery/tree/master/Proposal/Final_Research_Proposal_2.pdf")
   
  <h4> Austrian Marshall Plan Publication </h4>
- Bermudez D., Steyrl D., Müller G., Pock T., Implementation of Machine Learning Algorithm to Exploit Information from Multi-model fMRI/EEG Fused Image Data. Austrain Marshall Plan, pp. 1-82 (2017)("www.marshallplan.at/s/Bermudez-Dalton_760.pdf")
+ Bermudez D., Steyrl D., Müller G., Pock T., Implementation of Machine Learning Algorithm to Exploit Information from Multi-model fMRI/EEG Fused Image Data. Austrain Marshall Plan, pp. 1-82 (2017)("https://www.marshallplan.at/images/All-Papers/MP-2017/Bermudez+Dalton_760.pdf")
